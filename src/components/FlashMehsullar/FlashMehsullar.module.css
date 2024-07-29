@@ -1,0 +1,84 @@
+.butunMehsullar{
+    background-color:#FE743F;
+    padding-bottom: 30px;
+}
+.butunMehsullar .yanyana2{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 20px 20px 0px 20px;
+}
+.butunMehsullar .yanyana2 .mehsul01{
+
+}
+.butunMehsullar .yanyana2 .mehsul02 .btn2 button{
+        padding: 20px 30px;
+        border-radius:20px;
+        background-color:#FE743F;
+        color:black;
+        border:none;
+}
+.butunMehsullar .yanyana2 .mehsul02 .btn2 button:hover{
+    background-color: #E6E6E6;
+    color:black;
+}
+.mehsulunOzu{
+    text-align: center;
+}
+
+.allMehsul{
+    padding: 0px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+   gap:20px;
+}
+h1{
+    padding: 20px 40px;
+    
+}
+
+.allMehsul .mehsul1{
+    border-radius:10px;
+    border: none;
+    padding: 10px 15px;
+    background-color:white;
+    color:black;
+    width: 25%;
+}
+.allMehsul .mehsul1 .yanyana{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.allMehsul .mehsul1 .yanyana .flash img{
+    width: 30%;
+}
+.allMehsul .mehsul1 .yanyana .icon1 button{
+    border-radius:50%;
+    background-color: white;
+    padding: 10px 12px;
+}
+h5{
+    padding: 10px 0px;
+    color:gray;
+}
+
+.allMehsul .mehsul1 img{
+    width: 50%;
+}
+
+.allMehsul .mehsul1 .ulduzlar{
+    display: flex;
+    align-items:center;
+  
+}
+.allMehsul .mehsul1 .ulduzlar img{
+    width: 5%;
+    margin-left: 5px;
+
+}
+.qiymet{
+    padding: 10px 0px;
+    color:#F27A1A;
+}

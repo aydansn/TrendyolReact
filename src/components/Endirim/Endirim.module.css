@@ -1,0 +1,10 @@
+.endirim{
+    padding: 10px 40px;
+
+}
+.endirim img{
+  border-radius:8px;
+    width: 100%;
+    margin: 9px 0 24px;
+    height: 64px;
+}
